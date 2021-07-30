@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.6544c0f7.chunk.css",
+    "main.css": "/static/css/main.0bac43be.chunk.css",
     "main.js": "/static/js/main.f572d8fc.chunk.js",
     "main.js.map": "/static/js/main.f572d8fc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1c03d6d5.js",
@@ -12,7 +12,7 @@
     "static/js/3.8100db9a.chunk.js.map": "/static/js/3.8100db9a.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.4bd8e119.chunk.css.map": "/static/css/2.4bd8e119.chunk.css.map",
-    "static/css/main.6544c0f7.chunk.css.map": "/static/css/main.6544c0f7.chunk.css.map",
+    "static/css/main.0bac43be.chunk.css.map": "/static/css/main.0bac43be.chunk.css.map",
     "static/js/2.1a722c4c.chunk.js.LICENSE.txt": "/static/js/2.1a722c4c.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/static/media/fa-brands-400.9e138496.ttf",
     "static/media/airbnb.455dc7c6.svg": "/static/media/airbnb.455dc7c6.svg",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.1c03d6d5.js",
     "static/css/2.4bd8e119.chunk.css",
     "static/js/2.1a722c4c.chunk.js",
-    "static/css/main.6544c0f7.chunk.css",
+    "static/css/main.0bac43be.chunk.css",
     "static/js/main.f572d8fc.chunk.js"
   ]
 }
