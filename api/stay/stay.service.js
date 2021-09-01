@@ -78,7 +78,10 @@ async function add(stay) {
 function _buildCriteria(filterBy) {
     const criteria = {}
 
-    const txtCriteria = { $regex: filterBy.searchTxt, $options: 'i' }
+    const txtCriteria = {
+        $regex: filterBy.searchTxt,
+        $options: 'i'
+    }
     if (filterBy.searchTxt && filterBy.searchTxt !== '') {
         criteria.city = txtCriteria
     }
